@@ -1,0 +1,24 @@
+body{
+  background-image: url('./Components/image/city.jpg');
+  background-size: cover;
+  background-repeat: round;
+}
+
+.PostingSection{
+  margin: 2rem 0;
+  padding: 2rem 1rem;
+
+}
+
+.PostingForm{
+  display: flex;
+  flex-direction: column;
+}
+
+.PostingForm .Field {
+  margin-bottom: 2rem;
+}
+
+.ViewSection .card{
+  margin-bottom: 2rem;
+}
